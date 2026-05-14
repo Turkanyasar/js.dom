@@ -1,8 +1,3 @@
-body {
-  font-family: "Dosis", sans-serif;
-  font-weight: 500;
-}
-
 #dom .box {
   width: 250px;
   border: 3px solid;
@@ -51,4 +46,4 @@ body {
   #dom .todo-item {
     width: 130px;
   }
-}/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=dom.css.map */
